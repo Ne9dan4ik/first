@@ -1,0 +1,23 @@
+<section class="panel" id="advantages">
+        <h1 class="section-title text-upper">мЮЬХ ОПЕХЛСЫЕЯРБЮ</h1>
+        <div class="container content d-flex justify-content-center align-items-center mt-5">
+            <div class="content w-75 d-flex justify-content-around align-items-center" style="height: 250px;"
+                id="advantages-">
+                <div class="item">
+                    <img src="assets/img/1.png" alt="advantages">
+                    <p>анкэьни юяянпрхлемр</p>
+                </div>
+                <div class="item">
+                    <img src="assets/img/2.png" alt="advantages">
+                    <p>ашярпюъ днярюбйю</p>
+                </div>
+                <div class="item">
+                    <img src="assets/img/3.png" alt="advantages">
+                    <p>цюпюмрхъ йювеярбю</p>
+                </div>
+                <div class="item">
+                    <img src="assets/img/4.png" alt="advantages">
+                    <p>нмкюим-йнмяскэрюмр</p>
+                </div>
+            </div>
+        </div>
